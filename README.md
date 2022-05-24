@@ -7,6 +7,7 @@
 
 [![Linkedin: Jeswilldbm](https://img.shields.io/badge/-Jeswilldbm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeswillbolivar/)](https://www.linkedin.com/in/jeswillbolivar/)
 [![GitHub Jeswilldbm](https://img.shields.io/github/followers/jeswilldbm?label=follow&style=social)](https://github.com/jeswilldbm)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
 ### <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="50"> A little more about me...  
