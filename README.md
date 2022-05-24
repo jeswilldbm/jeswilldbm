@@ -1,5 +1,4 @@
-### Hi there 👋
-<h2> Hi, I'm Jeswill Bolivar! <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Jeswill Bolivar!👋 <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/4KzpjLvJjJknJ5Xuak/giphy.gif" width="230">
 
 
