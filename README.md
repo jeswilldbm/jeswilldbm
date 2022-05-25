@@ -4,6 +4,7 @@
 <p><em>Student of Electrical Engineer at <a href="http://www.psmvalencia.edu.ve">Universidad Santiago Mariño</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   
 :paperclip: [My Resume/CV](https://drive.google.com/uc?export=download&id=1I6Wml9-NifW9KOjHwA7K9rQIy0D6idzf).
+:paperclip: [My Resume/CV](https://drive.google.com/file/d/1CdELinZxqQJNPY7PJqWr1kduzIINyZSj/view?usp=sharing).
                              
 
 
